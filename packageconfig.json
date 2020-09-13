@@ -1,9 +1,9 @@
 ﻿{
-    "artifactVersion": "1.6.2",
+    "artifactVersion": "1.2.0",
     "gitUserId": "Cloudmersive",
-    "gitRepoId": "Cloudmersive.APIClient.PHP.Validate",
+    "gitRepoId": "Cloudmersive.APIClient.PHP.Currency",
     "composerVendorName": "cloudmersive",
-    "composerProjectName": "cloudmersive_validate_api_client",
-    "packagePath": "cloudmersive_validate_api_client"
+    "composerProjectName": "cloudmersive_currency_api_client",
+    "packagePath": "cloudmersive_currency_api_client"
 
 }
